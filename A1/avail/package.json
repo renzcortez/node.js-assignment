@@ -1,0 +1,11 @@
+{
+  "name":"avail",
+  "version":"1.0.0",
+  "scripts": {
+    "test": "jest --verbose"
+  },
+  "dependencies": {
+    "axios":"^0.24.0",
+    "jest":"^27.3.1"
+  }
+}
